@@ -1,13 +1,13 @@
-#Movies and Movie Ratings
+# Movies and Movie Ratings
 
-##About
+## About
 
 This writes Data to a JSON File using fs module
 
 
 It was created with Node.js and express
 
-##How To Use
+## How To Use
 
 To view the data that is already in the list, go to route "/all".
 
