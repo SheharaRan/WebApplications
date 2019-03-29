@@ -13,9 +13,8 @@ To view the data that is already in the list, go to route "/all".
 
 To add a word to the list, go to the route "/add/"your movie title"/"your rating out of 100"
 
-For example to add Dumbo with a score of 88 you would go to...
+For example to add the movie Dumbo with a score of 88 you would go to...
 
 localhost:3000/add/Dumbo/88
-
 
 
